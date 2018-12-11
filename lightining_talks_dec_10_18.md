@@ -64,8 +64,11 @@ www.flowmill.com
 <img src="./grpc-git.jpg">
 
 ## How You Too Can Find a Needle in the Haystack - Shreya Sharma, Expedia Inc.
+- https://github.com/ExpediaDotCom/haystack
 - three ids for identification
     - trace id
     - span id: identifies the txns
     - parent span id: help identify whi talks to whom.
 
+## The Future of Humans in a World of Automation - Kendall Miller, ReactiveOps by @blatanterror
+- 
