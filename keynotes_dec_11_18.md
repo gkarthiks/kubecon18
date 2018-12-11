@@ -17,4 +17,6 @@
 - container registry
 
 ## etcd
+- try etcd independently
+- etcd is contributed to CNCF
 - 
