@@ -95,3 +95,6 @@ www.databasesoup.com
 
 ## PID Autoscaling Strava's Linkerd Service Mesh Using Prometheus Data - J Evans, Strava @jayeve6
 - PID : Proportional, Integral, Derivative
+
+## Kubegres: Accessing K8s From Postgres - Liz Frost, Heptio @stillinbeta
+- 
