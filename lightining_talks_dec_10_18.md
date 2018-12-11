@@ -59,4 +59,13 @@ www.flowmill.com
 <img src="./ing_controller.jpg">
 
 ## Connect from Browsers Using gRPC-Web - Stanley Cheung, Google
-- 
+<img src="./grpc-lang.jpg">
+<img src="./grpc-no-web.jpg">
+<img src="./grpc-git.jpg">
+
+## How You Too Can Find a Needle in the Haystack - Shreya Sharma, Expedia Inc.
+- three ids for identification
+    - trace id
+    - span id: identifies the txns
+    - parent span id: help identify whi talks to whom.
+
