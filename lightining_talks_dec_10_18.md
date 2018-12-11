@@ -26,4 +26,12 @@ by @sakajunquality
 - common annotations
 
 ## Behind The Scenes: Kubernetes Release Notes Tips & Tricks - Mike Arpaia, Kolide @marpaia
-- 
+- add "none" if you don't have any note for pr in k8s repo
+
+## Monitoring Kubernetes with BPF and Prometheus - Jonathan Perry, Flowtune by @
+- Flow monitoring
+- Technology: eBPF
+
+- with flow data, complete arch data can be achieved.
+- can find the easily the health of the upstream services
+- Monitor the services using the expensive resources.
