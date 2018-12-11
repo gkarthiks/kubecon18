@@ -95,4 +95,3 @@ www.databasesoup.com
 
 ## PID Autoscaling Strava's Linkerd Service Mesh Using Prometheus Data - J Evans, Strava @jayeve6
 - PID : Proportional, Integral, Derivative
-- 
