@@ -1,4 +1,4 @@
-## GitOps: Ubie Inc
+## GitOps: Ubie Inc by @sakajunquality
 - Check weaveworks for GitOps def
 two repositories basically, 
 - Application repo and
@@ -6,7 +6,6 @@ two repositories basically,
 
 - Workflow should be simple
 - Repo should be decoupled
-by @sakajunquality
 
 
 ## ChatBot from Capital Bank by Andrew
@@ -38,3 +37,12 @@ by @sakajunquality
 - Monitor the services using the expensive resources.
 www.flowmill.com
 
+## Spawning Kubernetes In CI For Integration Tests - Marko Mudrinić, Loodse
+- sigs k8s in docker => sigs.k8s.io/kind
+- KIND:
+    - Only req is docker
+    - comes pre-build docker image containing all dependencies
+    - clusters are provisioned using kubeadm
+
+##### KIND in Travis CI:
+- kind create cluster will create cluster
