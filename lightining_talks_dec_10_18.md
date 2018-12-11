@@ -73,4 +73,5 @@ www.flowmill.com
 ## The Future of Humans in a World of Automation - Kendall Miller, ReactiveOps by @blatanterror
 - keep calm and automate on
 
-## 
+## Cloud TPU? Don’t Mind If I Do - Nathan Murthy, Tesla @natemurthy
+- 
