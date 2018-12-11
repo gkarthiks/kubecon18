@@ -80,4 +80,9 @@ www.flowmill.com
     - TPU
     - QPU
 ## How Fast Was My Database? - Josh Berkus, Red Hat
+- GusterFS is not optmized for DB
+- Rook and ceph did better
+www.databasesoup.com
+
+## Kubernetes Community, A Story Told by Emojis and Slack Data - Paris Pittman, Google
 - 
