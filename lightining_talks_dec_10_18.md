@@ -74,4 +74,5 @@ www.flowmill.com
 - keep calm and automate on
 
 ## Cloud TPU? Don’t Mind If I Do - Nathan Murthy, Tesla @natemurthy
+- 165 terra flops per seconds roughly with TPU in GKE
 - 
