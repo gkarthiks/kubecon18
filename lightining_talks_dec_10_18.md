@@ -46,3 +46,7 @@ www.flowmill.com
 
 ##### KIND in Travis CI:
 - kind create cluster will create cluster
+- GitHub: xmudrii/travis-kind
+
+## Running Kubernetes in the Federal Government - John Osborne, `Red Hat`
+- 
