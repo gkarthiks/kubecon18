@@ -36,6 +36,7 @@ two repositories basically,
 - can find the easily the health of the upstream services
 - Monitor the services using the expensive resources.
 www.flowmill.com
+<img src="./flownalysis.jpg">
 
 ## Spawning Kubernetes In CI For Integration Tests - Marko Mudrinić, Loodse
 - sigs k8s in docker => sigs.k8s.io/kind
@@ -43,6 +44,8 @@ www.flowmill.com
     - Only req is docker
     - comes pre-build docker image containing all dependencies
     - clusters are provisioned using kubeadm
+<img src="./loodse.jpg">
+
 
 ##### KIND in Travis CI:
 - kind create cluster will create cluster
