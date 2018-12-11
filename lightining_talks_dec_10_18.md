@@ -56,3 +56,7 @@ www.flowmill.com
 
 ## Optimizing Kubernetes Networking at Datadog - Laurent Bernaille, Datadog
 - lyft CNI plugin
+<img src="./ing_controller.jpg">
+
+## Connect from Browsers Using gRPC-Web - Stanley Cheung, Google
+- 
