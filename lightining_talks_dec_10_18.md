@@ -75,4 +75,9 @@ www.flowmill.com
 
 ## Cloud TPU? Don’t Mind If I Do - Nathan Murthy, Tesla @natemurthy
 - 165 terra flops per seconds roughly with TPU in GKE
+    - CPU
+    - GPU
+    - TPU
+    - QPU
+## How Fast Was My Database? - Josh Berkus, Red Hat
 - 
