@@ -97,4 +97,5 @@ www.databasesoup.com
 - PID : Proportional, Integral, Derivative
 
 ## Kubegres: Accessing K8s From Postgres - Liz Frost, Heptio @stillinbeta
-- 
+- check this out, this is running k8s from inside postgres.
+- GitHub: liztio
