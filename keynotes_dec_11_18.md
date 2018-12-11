@@ -20,3 +20,6 @@
 - try etcd independently
 - etcd is contributed to CNCF
 - etcd3 gives `remote snapshot`
+
+## knative
+- try knative
