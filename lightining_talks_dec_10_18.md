@@ -90,4 +90,9 @@ www.databasesoup.com
 ## CoreDNS Over gRPC: Reliable Service Discovery for Kubernetes - Yong Tang, MobileIron, Inc.
 - github: yongtang
 - CoreDNS supports DNS over TLS and DNS oer gRPC
+<img src="./coredns.jpg">
+
+
+## PID Autoscaling Strava's Linkerd Service Mesh Using Prometheus Data - J Evans, Strava @jayeve6
+- PID : Proportional, Integral, Derivative
 - 
