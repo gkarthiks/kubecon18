@@ -86,3 +86,8 @@ www.databasesoup.com
 
 ## Kubernetes Community, A Story Told by Emojis and Slack Data - Paris Pittman, Google
 - :ship_it_parrot:
+
+## CoreDNS Over gRPC: Reliable Service Discovery for Kubernetes - Yong Tang, MobileIron, Inc.
+- github: yongtang
+- CoreDNS supports DNS over TLS and DNS oer gRPC
+- 
