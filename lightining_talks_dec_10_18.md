@@ -52,4 +52,7 @@ www.flowmill.com
 - GitHub: xmudrii/travis-kind
 
 ## Running Kubernetes in the Federal Government - John Osborne, `Red Hat`
+- http://atopathways.redhatgov.io/
+
+## Optimizing Kubernetes Networking at Datadog - Laurent Bernaille, Datadog
 - 
