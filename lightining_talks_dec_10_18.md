@@ -85,4 +85,4 @@ www.flowmill.com
 www.databasesoup.com
 
 ## Kubernetes Community, A Story Told by Emojis and Slack Data - Paris Pittman, Google
-- 
+- :ship_it_parrot:
