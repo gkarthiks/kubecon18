@@ -5,3 +5,13 @@
 
 ## linkerd
 - check linkerd integration
+
+## vitess
+- VReplication
+- database 
+
+## grpc
+- packages.grpc.io
+
+## Harbor
+- container registry
