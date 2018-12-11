@@ -71,4 +71,6 @@ www.flowmill.com
     - parent span id: help identify whi talks to whom.
 
 ## The Future of Humans in a World of Automation - Kendall Miller, ReactiveOps by @blatanterror
-- 
+- keep calm and automate on
+
+## 
