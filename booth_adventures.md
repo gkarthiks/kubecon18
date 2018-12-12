@@ -7,3 +7,7 @@ Checkout the followings,
 - look for contributing into https://github.com/stripe/skycfg
 - checkout KubeMQ and clear what's the MQ token is.
 - Try couchbase instead of CouchDB
+- Check vitess futures for MSSQL
+- Apache Pulsar for messaging
+
+- Try coding functions in Ballerina
