@@ -3,3 +3,6 @@ Things I need to check:
  - https://helidon.io/#/
  - https://github.com/ExpediaDotCom/haystack
  - Check the JFrog for the GoLang modules repo
+
+ - install microk8s
+ - install linkerd 
